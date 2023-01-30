@@ -1,0 +1,17 @@
+.logo{
+    height: 5em;
+}
+
+.side-image{
+    text-align: center;
+}
+
+.side-image img{
+    margin: auto;
+    display: block;
+    padding: 5px;
+}
+
+.side-image small{
+    padding: 1px;
+}
